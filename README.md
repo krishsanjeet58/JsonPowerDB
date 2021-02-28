@@ -1,4 +1,4 @@
-![Capture](https://user-images.githubusercontent.com/79776840/109408332-aede3280-79ae-11eb-99fb-47b04c12df02.JPG)
+
 # JsonPowerDB
 ## "This project is all about basics of JsonPowerDB (JPDB) and how to use JPDB for CRUD operations."
 
@@ -32,9 +32,18 @@
 <br />
 <br />
 
-## Data Base Screenshots::
+## Data Base Screenshots :
 
 <br />
 
 ![Capture](https://user-images.githubusercontent.com/79776840/109408343-c74e4d00-79ae-11eb-96a2-5231e6e936fd.JPG)
 
+
+<br />
+<br />
+
+              ##  This is a trial mini project using 
+                      ##  json power DB.
+                      ALL CRUD operation are performed.
+                      <br />
+![Capture 1](https://user-images.githubusercontent.com/79776840/109408757-85bfa100-79b2-11eb-92d3-c91d4a97d1e4.JPG)
