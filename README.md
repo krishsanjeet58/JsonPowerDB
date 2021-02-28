@@ -9,13 +9,13 @@
  **Benefits of using JsonPowerDB**
     
 
-  ***_ Simplest way to retrieve data in a JSON format.***
+  *** _ Simplest way to retrieve data in a JSON format.***
 
-  ***_ Schema-free, Simple to use, Nimble and In-Memory database.***
+  *** _ Schema-free, Simple to use, Nimble and In-Memory database.***
 
-  ***_ It is built on top of one of the fastest and real-time data indexing engine - PowerIndeX.***
+  *** _ It is built on top of one of the fastest and real-time data indexing engine - PowerIndeX.***
 
-  ***_ It is low level (raw) form of data and is also human readable.***
+  *** _ It is low level (raw) form of data and is also human readable.***
 
-  ***_ It helps developers in faster coding, in-turn reduces development cost.***
+  *** _ It helps developers in faster coding, in-turn reduces development cost.***
 
