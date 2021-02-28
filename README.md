@@ -42,8 +42,8 @@
 <br />
 <br />
 
-              ##  This is a trial mini project using 
+                This is a trial mini project using 
                       ##  json power DB.
-                      ALL CRUD operation are performed.
+                     ``` ALL CRUD operation are performed.```
                       <br />
 ![Capture 1](https://user-images.githubusercontent.com/79776840/109408757-85bfa100-79b2-11eb-92d3-c91d4a97d1e4.JPG)
