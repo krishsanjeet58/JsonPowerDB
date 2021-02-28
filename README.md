@@ -34,7 +34,7 @@
 ## Data Base Screenshots::
 
 <br />
-![Capture](https://user-images.githubusercontent.com/79776840/109408282-ee584f00-79ad-11eb-8467-7f356738864b.JPG)
+![Capture] https://user-images.githubusercontent.com/79776840/109408282-ee584f00-79ad-11eb-8467-7f356738864b.JPG
 
 
 
